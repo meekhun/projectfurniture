@@ -507,7 +507,7 @@ margin-top: 1rem;
     /* grid-template-rows: 4, 1fr;} */
   .grid {
     grid-template-columns: repeat(1, 1fr);
-    height: 130vh;
+    height: 150vh;
   }
 
 .experience {
@@ -528,6 +528,7 @@ width: 30rem;
   width: 10rem;
   position: relative;
   right: 32.4rem;
+
 }
 .imagematerials >img:nth-child(3){
     margin-left: 7rem;
@@ -596,5 +597,6 @@ left: 4.5rem;
     /* margin-top: 3rem; */
     /* text-decoration: none; */
     max-width: 80rem;
+    border: 2px solid;
 }
 }
